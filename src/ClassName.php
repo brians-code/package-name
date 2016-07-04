@@ -1,6 +1,12 @@
-<?php namespace CodeKitchen\PackageName;
+<?php 
+namespace CodeKitchen\PackageName;
 
-class ClassName {
+use OtherVendorName\OtherPackageName\OtherClassName;
+
+class ClassName
+{
+
+    const CLASS_CONSTANT = 'Class constants MUST be upper case';
 
     public function functionName($result = true)
     {
