@@ -1,6 +1,6 @@
 {
     "name": "codekitchen-ws/package-name",
-    "description": "An empty package template that follows the PSR-4 autoloader specifications: http://www.php-fig.org/psr/psr-4/",
+    "description": "An empty package template that follows the PSR-4 autoloader specifications located at http://www.php-fig.org/psr/psr-4/",
     "license": "MIT",
     "keywords": ["psr-4","package","autoloading"],
     "homepage": "https://github.com/codekitchen-ws/package-name",
